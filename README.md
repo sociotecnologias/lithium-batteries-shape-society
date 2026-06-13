@@ -1,6 +1,6 @@
 # Bibliometric Analysis
 
-Python pipeline for generating the bibliometric and semantic analysis for the manuscript "Main_International Journal of Energy_V4".
+Python pipeline for generating the bibliometric and semantic analysis for the paper "How Lithium Batteries Shape Society? From Tech Tools to Socio-Technical Devices".
 
 ## Layout
 
