@@ -1,6 +1,6 @@
 # Bibliometric Analysis
 
-Python pipeline for generating the bibliometric and semantic analysis for the paper "How Lithium Batteries Shape Society? From Tech Tools to Socio-Technical Devices".
+Python pipeline for generating the bibliometric and semantic analysis for the paper "How Lithium Batteries Shape Society? From Tech Tools to Socio-Technical Devices", published in *International Journal of Energy Research* ([doi:10.1155/er/5162683](https://doi.org/10.1155/er/5162683)).
 
 ## Layout
 
@@ -52,3 +52,26 @@ The script automatically generates all figures and tables used in the revised ma
   * Figure B5 (Semantic Deficit Radar/Bars)
   * Figure B6 (Interdisciplinarity Networks)
 * **`outputs/Supplementary_Material_Country_Proportions.xlsx`**: The exact fractional counting production table explicitly mapping every country to its economic group (2010-2017 vs 2018-2025).
+
+## Citation
+
+If you use this code or its outputs, please cite the paper:
+
+> Ojeda-Pereira, Iván, Herrera-León, Sebastián, Santibáñez Ferreira, Javier, Kraslawski, Andrzej, Campos-Medina, Fernando, Cassola, José, How Lithium Batteries Shape Society? From Tech Tools to Socio-Technical Devices, *International Journal of Energy Research*, 2026, 5162683, 19 pages, 2026. https://doi.org/10.1155/er/5162683
+
+BibTeX:
+
+```bibtex
+@article{ojedapereira2026lithium,
+  author   = {Ojeda-Pereira, Iván and Herrera-León, Sebastián and Santibáñez Ferreira, Javier and Kraslawski, Andrzej and Campos-Medina, Fernando and Cassola, José},
+  title    = {How Lithium Batteries Shape Society? From Tech Tools to Socio-Technical Devices},
+  journal  = {International Journal of Energy Research},
+  volume   = {2026},
+  number   = {1},
+  pages    = {5162683},
+  year     = {2026},
+  doi      = {10.1155/er/5162683},
+  url      = {https://onlinelibrary.wiley.com/doi/abs/10.1155/er/5162683},
+  keywords = {bibliometric, lithium batteries, science and technology studies, social sciences, transdisciplinary engineering}
+}
+```
